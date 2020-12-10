@@ -1,6 +1,12 @@
-theme: jekyll-theme-cayman
-title: Dr. Jonathan Sharp
-email: jonathan.sharp@noaa.gov
-#description: Postdoctoral Scholar at University of Washington
-#author: Some Person
-#avatar: "/avatar.jpg"
+# Site settings
+title:
+email:
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
