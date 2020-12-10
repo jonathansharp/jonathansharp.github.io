@@ -1,3 +1,3 @@
-# sharp.github.io
+# jonathansharp.github.io
 
 My personal website
