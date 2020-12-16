@@ -1,7 +1,10 @@
-# Jon Sharp's Personal Website
-Made using Massively by HTML5 UP template
-Info about Massively below:
+## Personal Website for Jon Sharp
+Postdoctoral Scholar at the University of Washington
+Cooperative Institute for Climate, Ocean, and Ecosystem Studies (CICOES)
+NOAA Pacific Marine Environmental Laboratory (PMEL)
+Made using Massively template by HTML5 UP
 
+## Info about Massively:
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -26,10 +29,8 @@ Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
-
 	Icons:
 		Font Awesome (fontawesome.io)
-
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
